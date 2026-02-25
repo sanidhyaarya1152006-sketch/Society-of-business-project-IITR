@@ -1,2 +1,32 @@
-# Society-of-business-project-IITR
-This project develops a classification model to predict and analyze the causes of airline delays. By examining factors such as flight operations, weather conditions, security issues, and aircraft-related problems, the model identifies primary delay contributors to support better operational planning in the aviation industry.
+##  Tech Stack
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+- SHAP
+- Jupyter Notebook
+
+---
+
+##  Deliverables
+- ✔️ Complete Jupyter Notebook (.ipynb)
+- ✔️ Exploratory Data Analysis Report
+- ✔️ Predictive Models (Classification & Regression)
+- ✔️ Explainable AI Insights
+- ✔️ Actionable Business Recommendations
+- ✔️ Presentation Deck (6 slides)
+
+---
+
+##  Dataset
+Dataset link is provided in the project submission guidelines.
+
+---
+
+## 🙌 Acknowledgements
+This project was developed as part of *Open Projects 2025 – Analytics*, focusing on real-world data-driven problem solving in aviation.
+
+---
+
+## 📬 Contact
+For questions or collaboration, feel free to connect via GitHub or LinkedIn.
