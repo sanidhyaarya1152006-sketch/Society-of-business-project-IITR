@@ -101,8 +101,8 @@ Based on EDA and model insights, the project recommends:
 - Proactively managing late aircraft delays
 - Using predictive insights for dynamic planning
 - Enhancing passenger communication during disruptions
-
----
+## Project Structure
+```text
 
  Project Structure of flight-delay-analysis
 │
@@ -116,7 +116,7 @@ Based on EDA and model insights, the project recommends:
 ├──  visuals/             # Generated plots & visualizations
 │
 └──  README.md            # Project documentation
----
+```
 
 ##  Tech Stack
 - Python  
