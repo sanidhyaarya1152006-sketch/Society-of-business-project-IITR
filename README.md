@@ -129,13 +129,13 @@ Based on EDA and model insights, the project recommends:
 ---
 
 ##  Deliverables
-- ✔️ Complete Jupyter Notebook (.ipynb)
-- ✔️ Exploratory Data Analysis
-- ✔️ Classification & Regression Models
-- ✔️ Operational Adjustability Index (OAI)
-- ✔️ Explainable ML using SHAP
-- ✔️ Actionable Airline Recommendations
-- ✔️ Presentation Deck (6 slides)
+-  Complete Jupyter Notebook (.ipynb)
+-  Exploratory Data Analysis
+-  Classification & Regression Models
+-  Operational Adjustability Index (OAI)
+-  Explainable ML using SHAP
+-  Actionable Airline Recommendations
+-  Presentation Deck (6 slides)
 
 ---
 
