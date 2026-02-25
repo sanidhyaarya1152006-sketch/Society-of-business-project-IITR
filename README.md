@@ -44,7 +44,7 @@ Multiple visualizations were created to highlight patterns, correlations, and op
 
 ##  Machine Learning Models
 
-### 1️ Classification Model
+### 1️. Classification Model
 Purpose: Predict *whether a flight will be delayed*
 
 Evaluation Metrics:
@@ -57,7 +57,7 @@ Evaluation Metrics:
 
 ---
 
-### 2️ Regression Model
+### 2️. Regression Model
 Purpose: Predict *delay duration (in minutes)*
 
 Evaluation Metrics:
@@ -104,13 +104,18 @@ Based on EDA and model insights, the project recommends:
 
 ---
 
-##  Project Structure
-├── data/ # Dataset files
-├── notebooks/
-│ └── flight_delay.ipynb # Main analysis notebook
-├── models/ # Trained models (if saved)
-├── visuals/ # Plots and visualizations
-└── README.md # Project documentation
+ Project Structure of flight-delay-analysis
+│
+├──  data/                # Raw & processed dataset files
+│
+├──  notebooks/
+│   └──  flight_delay.ipynb   # Main analysis notebook
+│
+├──  models/              # Saved trained ML models (if any)
+│
+├──  visuals/             # Generated plots & visualizations
+│
+└──  README.md            # Project documentation
 ---
 
 ##  Tech Stack
